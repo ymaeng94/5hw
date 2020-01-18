@@ -12,7 +12,9 @@ textarea{
   border-left: 1px solid black;
   padding: 10px;
 }
-
+.inline{
+  display: inline;
+}
 .jumbotron {
   text-align: center;
   background-color: transparent;
